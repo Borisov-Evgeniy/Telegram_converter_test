@@ -4,16 +4,11 @@
 
 ######  **Инструкции по установке и запуску:**
 
-1.Установите необходимые зависимости, выполнив следующую команду:
+1.Получите токен бота от BotFather в Telegram и API ключ от CurRate.ru.
 
-Copy code
-pip install -r requirements.txt
+2.Замените значение переменной YOUR_BOT_TOKEN на ваш токен бота и YOUR_API_KEY на ваш API ключ от CurRate.ru в файле main.py.
 
-2.Получите токен бота от BotFather в Telegram и API ключ от CurRate.ru.
-
-3.Замените значение переменной YOUR_BOT_TOKEN на ваш токен бота и YOUR_API_KEY на ваш API ключ от CurRate.ru в файле main.py.
-
-4.Запустите программу, выполните:
+3.Запустите программу, выполните:
 
 python main.py
 
