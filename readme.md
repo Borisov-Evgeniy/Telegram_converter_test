@@ -15,8 +15,6 @@ pip install -r requirements.txt
 
 4.Запустите программу, выполните:
 
-css
-Copy code
 python main.py
 
 
